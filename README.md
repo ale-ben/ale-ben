@@ -1,5 +1,14 @@
 <h1 align="center"><b>Hi , I'm Alessandro Benetton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science at the University of Bologna (Italy).\
+✍️ &nbsp;In my free time, I start new projects that I almost never finish.\
+✉️ &nbsp;You can shoot me an email at [alessandro.benetton.tv@gmail.com](mailto:alessandro.benetton.tv@gmail.com)! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+
+### 📊 &nbsp;Some Stats
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
