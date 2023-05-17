@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi , I'm Alessandro Benetton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <b>Hi , I'm Alessandro Benetton </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<br>
 
 ## 👨🏻‍💻 <b> About Me </b>
 <br>
@@ -9,8 +10,10 @@
 ✉️ &nbsp;You can shoot me an email at [alessandro.benetton.tv@gmail.com](mailto:alessandro.benetton.tv@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/ale-ben/ale-ben/blob/914409bfefe679ff1353f275382643a1fede75fd/media/2023-05-17_CV_English_GH.pdf) for more details about me. I'm open to feedback and suggestions!
   
+  
 ## 📊 <b> Some Stats </b>
 <br>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -45,6 +48,7 @@
 <!--- stats (end) -->
 
 ## 📞 <b> Let's Connect </b>
+<br>
 <a href="https://www.linkedin.com/in/alessandro-benetton-0a8563143/?locale=en_US" target="blank"><img align="center"
    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
    alt="azzar" height="30"/></a>
